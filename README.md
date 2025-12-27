@@ -53,10 +53,24 @@ We formulated four key questions to guide our analysis:
 ## 4. Key Findings Summary
 
 ### Question 1: Price and Popularity
-*(Pending analysis from teammate)*
+
+**1. Do books available via subscription services and bundles achieve higher visibility?**
+*   **Finding:** The results from the subscription services and bundle test methods are better, and more authors (about 31% of the author) are choosing the bundle option
+*   **Conclusion:** Books avaiable via subscription services and bundles achieve higher visibility, especially the Bundle option
+
+**2. Does a higher price leads to lower engagement? What is the best price**
+*   **Finding:** Some users may be satisfied at higher prices, many others are not
+*   **Conclusion:** The higher price lead to lower engagement. The author may consider choose the price in range 12-14$
 
 ### Question 2: Author Fame vs. Book Quality
-*(Pending analysis from teammate)*
+
+**1. How does an author's reputation drive the reach and reception of a book?**
+*   **Finding:** A strongly positive correlation between followers count and number of ratings
+*   **Conclusion:** Books tend to sell more when the author is more famous
+
+**2. Does a wider audience lead to lower average ratings because of broader scrutiny?**
+*   **Finding:** No significant relationship between follower count and ratings
+*   **Conclusion:** We not sure if a wider audience leads to lower average ratings due to broader scrutiny but the minimum ratings of the books have increased
 
 ### Question 3: Changing Habits (Audiobooks & Genres)
 
