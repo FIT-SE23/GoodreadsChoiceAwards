@@ -136,8 +136,10 @@ We formulated four key questions to guide our analysis:
 ### **7.1 Student 1**
 
 **Challenges & Difficulties:**
+*   **Analyzing Data from Visualization:** Every chart or graph conveys specific information, choose which one to fit the current problem and analysis the trending, establishing relationships and extracting meaningful insights
 
 **Learning & Growth:**
+* **Result:** I can now effectively address several critical aspects: recognizing anomalies in the data can enhance the accuracy or evaluating different sets of data allows determine which group performs best based on the criteria established.
 
 ### **7.2 Student 2**
 
