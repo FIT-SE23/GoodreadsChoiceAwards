@@ -41,7 +41,7 @@ We formulated four key questions to guide our analysis:
 *   **Motivation:** To separate the author's personal brand from the actual quality of the book.
 
 ### **Question 3: Changing Habits (Audiobooks & Genres)**
-*   **The Question:** How have reading habits changed over the last 14 years? Has the rise of **Audiobooks** allowed books to stay long? Which **Genre Combinations** are the most popular?
+*   **The Question:** How does **Audiobooks** affect book length, and is it an important driver for a book's success? Which **Genres and Genre Combinations** are the most popular? Is there a benefit to combining multiple genres?
 *   **Motivation:** To identify market trends and see if Audiobooks are now a "required" format for a bestseller.
 
 ### **Question 4: Predicting a Hit (Machine Learning)**
@@ -75,8 +75,9 @@ We formulated four key questions to guide our analysis:
 ### Question 3: Changing Habits (Audiobooks & Genres)
 
 **1. The Audiobook Advantage**
-*   **Finding:** Statistical testing confirms that books with the **Audiobook** format have a significant competitive advantage, achieving approximately **1.5x higher visibility** (ratings count) than those without.
-*   **Conclusion:** For authors and publishers, investing in audio production is a scientifically proven driver of higher engagement.
+*   **Impact on Length:** Books with an **Audiobook** format are, on average, **53.5 pages longer** than physical-only books, and is key driver in sustaining longer content (350+ pages).
+*   **Impact on Success:** **Audiobook** format also drives success. Audiobooks achieve approximately **1.5x higher visibility** (ratings count) than non-audiobooks.
+*   **Conclusion:** For authors, the Audiobook format is allow for more content in a book and is a driver of higher engagement.
 
 **2. Genre Combination Advantage**
 *   **Finding:** Combinations of genres often perform significantly better than individual genres alone. For example, while the top individual genre ("Fae") averages ~500,000 ratings, the combination **"Fae + Romantasy"** jumps to nearly **800,000 ratings**.

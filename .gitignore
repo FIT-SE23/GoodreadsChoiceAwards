@@ -4,3 +4,4 @@ env/
 virtualenv/
 src/
 Notebooks/Old/
+*.DS_Store
